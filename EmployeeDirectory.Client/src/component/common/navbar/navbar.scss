@@ -1,0 +1,88 @@
+@import "../../../styles/variables";
+
+.navbar {
+  border-bottom: 1px solid $light-border-color;
+  display: flex;
+  justify-content: space-between;
+
+  .menu-button {
+    display: none;
+    border: none;
+    outline: none;
+  }
+
+  .logo-block {
+    display: flex;
+    gap: 1.5rem;
+
+    .img-container {
+      width: 130px;
+      height: 45px;
+    }
+
+    .company-block {
+      .company-name {
+        font-size: $primary-heading;
+        font-weight: 300;
+        color: $light-blue;
+        margin: 0;
+      }
+      .company-tag {
+        font-size: 1.4rem;
+        color: $semi-dark-gray;
+        margin: 0;
+      }
+    }
+
+    @media screen and (max-width: 760px) {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+
+      .img-container {
+        width: 75px;
+        height: 30px;
+      }
+      .company-tag {
+        display: none;
+      }
+
+      .company-block {
+        .company-name {
+          font-size: 1.8rem;
+        }
+      }
+
+      .menu-button {
+        display: block;
+      }
+    }
+  }
+
+  .greeting-user {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-end;
+
+    .greet-heading {
+      font-size: $secondary-heading;
+      font-weight: 300;
+      color: $semi-dark-gray;
+    }
+    .user-image-container {
+      width: 50px;
+      height: 50px;
+    }
+    span {
+      color: $light-blue;
+    }
+  }
+
+  @media screen and (max-width: 760px) {
+    display: flex;
+
+    .greeting-user {
+      display: none;
+    }
+  }
+}

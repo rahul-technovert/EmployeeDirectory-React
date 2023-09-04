@@ -1,0 +1,28 @@
+@import "../../../../styles/variables";
+
+.employee-card {
+  position: relative;
+  background-color: #eee;
+  height: 55px;
+
+  .icons {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    right: 5px;
+    gap: 10px;
+  }
+  .img-block {
+    width: 40px;
+  }
+  .name {
+    font-size: $tertiary-heading;
+  }
+
+  .job-title,
+  .department {
+    margin: 0;
+    color: $semi-dark-gray;
+  }
+}

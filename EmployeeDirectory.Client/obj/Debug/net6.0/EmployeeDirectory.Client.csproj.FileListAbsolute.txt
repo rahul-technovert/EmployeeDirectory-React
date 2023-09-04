@@ -1,0 +1,12 @@
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\bin\Debug\net6.0\EmployeeDirectory.Client.deps.json
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\bin\Debug\net6.0\EmployeeDirectory.Client.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\bin\Debug\net6.0\EmployeeDirectory.Client.pdb
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.csproj.AssemblyReference.cache
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.AssemblyInfoInputs.cache
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.AssemblyInfo.cs
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.csproj.CoreCompileInputs.cache
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\refint\EmployeeDirectory.Client.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\EmployeeDirectory.Client.pdb
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Client\obj\Debug\net6.0\ref\EmployeeDirectory.Client.dll

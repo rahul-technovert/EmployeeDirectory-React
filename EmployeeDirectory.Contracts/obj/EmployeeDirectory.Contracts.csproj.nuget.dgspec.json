@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployeeDirectory.Contracts\\EmployeeDirectory.Contracts.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployDirectory.Concerns\\EmployDirectory.Concerns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployDirectory.Concerns\\EmployDirectory.Concerns.csproj",
+        "projectName": "EmployDirectory.Concerns",
+        "projectPath": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployDirectory.Concerns\\EmployDirectory.Concerns.csproj",
+        "packagesPath": "C:\\Users\\rahul.k\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployDirectory.Concerns\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rahul.k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployeeDirectory.Contracts\\EmployeeDirectory.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployeeDirectory.Contracts\\EmployeeDirectory.Contracts.csproj",
+        "projectName": "EmployeeDirectory.Contracts",
+        "projectPath": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployeeDirectory.Contracts\\EmployeeDirectory.Contracts.csproj",
+        "packagesPath": "C:\\Users\\rahul.k\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployeeDirectory.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rahul.k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployDirectory.Concerns\\EmployDirectory.Concerns.csproj": {
+                "projectPath": "C:\\Users\\rahul.k\\OneDrive - Technovert\\Desktop\\.Net\\EmployeeDIrectory\\EmployDirectory.Concerns\\EmployDirectory.Concerns.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

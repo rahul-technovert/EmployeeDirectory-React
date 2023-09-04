@@ -1,0 +1,22 @@
+@import "../../../styles/variables";
+
+.search-filter-block {
+  color: $dark-gray;
+  .label-text {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  .add-employee-btn {
+    background-color: $dark-blur;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .clear-btn {
+    background-color: $green;
+    color: #fff;
+    padding: 5px 15px;
+    cursor: pointer;
+  }
+}

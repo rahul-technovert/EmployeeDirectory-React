@@ -1,0 +1,16 @@
+@import "../../../styles/variables";
+
+.alphabets {
+  color: $dark-gray;
+
+  .btn {
+    background-color: $dark-blur;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+  }
+
+  .active {
+    background-color: $light-blue;
+  }
+}

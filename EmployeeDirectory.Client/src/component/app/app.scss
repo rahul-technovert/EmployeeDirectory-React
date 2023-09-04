@@ -1,0 +1,10 @@
+.container-block {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 20px 10px 0 10px;
+}
+
+.test {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

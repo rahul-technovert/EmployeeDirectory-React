@@ -1,0 +1,17 @@
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployeeDirectory.Services.deps.json
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployeeDirectory.Services.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployeeDirectory.Services.pdb
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployDirectory.Concerns.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployeeDirectory.Contracts.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployDirectory.Concerns.pdb
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\bin\Debug\net6.0\EmployeeDirectory.Contracts.pdb
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.csproj.AssemblyReference.cache
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.AssemblyInfoInputs.cache
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.AssemblyInfo.cs
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.csproj.CoreCompileInputs.cache
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.csproj.CopyComplete
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\refint\EmployeeDirectory.Services.dll
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\EmployeeDirectory.Services.pdb
+C:\Users\rahul.k\OneDrive - Technovert\Desktop\.Net\EmployeeDIrectory\EmployeeDirectory.Services\obj\Debug\net6.0\ref\EmployeeDirectory.Services.dll
